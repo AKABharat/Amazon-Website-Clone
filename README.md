@@ -1,5 +1,4 @@
 # Amazon-Website-Clone
-# Amazon Website Clone
 ```
 MORE FUNCTIONALITY WILL BE ADDED HERE IN FUTURE
 ```
